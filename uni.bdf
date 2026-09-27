@@ -1,0 +1,4 @@
+wget http://openlab.ring.gr.jp/efont/dist/unicode-bdf/efont-unicode-bdf-0.4.2.tar.bz2
+bzip2 -dk efont-unicode-bdf-0.4.2.tar.bz2
+wget http://unifoundry.com/pub/unifont-10.0.07/font-builds/unifont-10.0.07.bdf.gz
+wget http://openlab.ring.gr.jp/efont/dist/shinonome/shinonome-0.9.11p1.tar.bz2
